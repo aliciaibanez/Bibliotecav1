@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Editorial
+comment1.params=
+comment1.target=Editorial()
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=java.lang.String\ getPais()
+comment5.params=elPais
+comment5.target=void\ setPais(java.lang.String)
+comment6.params=
+comment6.target=void\ imprimirDetalles()
+numComments=7
